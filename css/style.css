@@ -1,0 +1,25 @@
+body{
+    background-image: url("../assets/images/keyvisual.jpg");
+}
+.card-title{
+    margin-top: 23px;
+    margin-left: 20px;
+    color: #ffffff;
+}
+.card-heading{
+    background-color: #4d2600;
+}
+#jumbotron{
+    background-color: #4d2600;
+    color: #ffffff;
+}
+#submitButton{
+    background-color: #4d2600;
+    color: #ffffff;
+}
+.card{
+    border: 0px;
+}
+#card2{
+    margin-top: 40px;
+}
